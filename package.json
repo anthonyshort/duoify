@@ -1,0 +1,11 @@
+{
+  "name": "duoify",
+  "version": "1.0.0",
+  "repository": "anthonyshort/duoify",
+  "description": "Modify Browserify bundles to be compatible with Duo",
+  "main": "index.js",
+  "dependencies": {
+    "falafel": "^1.2.0",
+    "through2": "^2.0.0"
+  }
+}
